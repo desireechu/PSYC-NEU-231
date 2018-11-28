@@ -43,7 +43,12 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 * 11.28.2018 Filtering and time-series processing (including more advanced applications of the FFT)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## l;askdjfl;kasj;ldfkj
 =======
 * 12.05.2018 Intro to Bayesian models of perceptual inference  
 >>>>>>> upstream/master
+=======
+## l;askdjfl;kasj;ldfkj
+## edit
+>>>>>>> eb814b71a21561310a69d868a980e4e1c6d2d15e
